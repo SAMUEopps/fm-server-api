@@ -31,3 +31,6 @@ firebase-admin.json
 /public/story/*
 /public/avatar/*
 !/public/avatar/default-profile.png
+
+
+FIREBASE_ADMIN_SDK_PATH=./config/firebase-admin.json
